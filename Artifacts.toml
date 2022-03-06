@@ -1,0 +1,6 @@
+[FXdiv]
+git-tree-sha1 = "dac6689168da3ec7543297222d942b298d3db672"
+
+    [[FXdiv.download]]
+    sha256 = "a2553233bc921e0f340cfd4e4b9449d96ae42b6a36bf673f26b53b4366fb46ec"
+    url = "https://github.com/JuliaBinaryWrappers/FXdiv_jll.jl/releases/download/FXdiv-v0.0.20181117+0/FXdiv.v0.0.20181117.any.tar.gz"
